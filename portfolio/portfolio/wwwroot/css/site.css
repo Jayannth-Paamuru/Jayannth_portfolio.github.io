@@ -1,0 +1,105 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Add these lines to set your new background */
+    background-image: url('../Images/background.png');
+    background-size: cover; /* This makes the image cover the entire screen */
+    background-position: center; /* This centers the image */
+    background-attachment: fixed; /* This keeps the background fixed while you scroll */
+    margin-bottom: 60px;
+}
+
+/* --- Timeline Styles for Resume Page --- */
+/*.timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+    .timeline::after {
+        content: '';
+        position: absolute;
+        width: 6px;
+        background-color: #b8e994;*/ /* Using your theme's green */
+        /*top: 0;
+        bottom: 0;
+        left: 50%;
+        margin-left: -3px;
+    }
+
+.timeline-container {
+    padding: 15px 40px;
+    position: relative;
+    background-color: inherit;
+    width: 50%;
+}*/
+
+    /* The circles on the timeline */
+    /*.timeline-container::after {
+        content: '';
+        position: absolute;
+        width: 25px;
+        height: 25px;
+        right: -17px;
+        background-color: white;
+        border: 4px solid #78e08f;*/ /* Using your theme's green */
+        /*top: 35px;
+        border-radius: 50%;
+        z-index: 1;
+    }
+
+.left {
+    left: 0;
+}
+
+.right {
+    left: 50%;
+}
+
+    .right::after {
+        left: -16px;
+    }
+
+.timeline-content {
+    margin-bottom:20px;
+    border:1px solid #eee
+    padding: 20px 30px;
+    background-color: white;
+    position: relative;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+}
+
+
+@media screen and (max-width: 768px) {
+    .timeline::after {
+        left: 31px;
+    }
+
+    .timeline-container {
+        width: 100%;
+        padding-left: 70px;
+        padding-right: 25px;
+    }
+
+    .right {
+        left: 0%;
+    }
+
+        .left::after, .right::after {
+            left: 15px;
+        }
+}*/

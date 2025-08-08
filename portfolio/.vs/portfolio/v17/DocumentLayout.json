@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayan\\source\\repos\\portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\views\\main\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\main\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\views\\main\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\main\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\views\\main\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\main\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\views\\main\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\main\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\views\\main\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\main\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|c:\\users\\jayan\\source\\repos\\portfolio\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E2CF3D4-FFCB-4716-A438-B4172395A35E}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Experience.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Main\\Experience.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Main\\Experience.cshtml",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Main\\Experience.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Main\\Experience.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T03:21:38.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T15:51:01.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T15:50:58.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T15:43:29.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\appsettings.json",
+              "RelativeDocumentMoniker": "portfolio\\appsettings.json",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\appsettings.json",
+              "RelativeToolTip": "portfolio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T15:43:25.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T15:43:24.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Main\\Projects.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Main\\Projects.cshtml",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Main\\Projects.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Main\\Projects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T11:53:51.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "portfolio\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "portfolio\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-07T11:30:33.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Main\\Contact.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Main\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Main\\Contact.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Main\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T11:30:08.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resume.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Main\\Resume.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Main\\Resume.cshtml",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Main\\Resume.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Main\\Resume.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAH8AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T11:28:10.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Main\\Index.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Main\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Main\\Index.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Main\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T11:27:28.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T11:25:17.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "portfolio\\Program.cs",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Program.cs",
+              "RelativeToolTip": "portfolio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:23:05.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "portfolio\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\portfolio\\portfolio\\Controllers\\MainController.cs",
+              "RelativeToolTip": "portfolio\\Controllers\\MainController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:49:32.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

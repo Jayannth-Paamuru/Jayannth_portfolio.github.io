@@ -1,0 +1,135 @@
+﻿@{
+    ViewData["Title"] = "Resume";
+}
+
+<div class="container my-4">
+    <center><p style="font-size:35px; letter-spacing: 2px;"><b><big>RESUME</big></b></p></center>
+    <div class="row my-4">
+        <div class="col-md-8 mx-auto text-center">
+            <a href="@Url.Action("Download", "Main")" class="btn btn-primary px-5" style="border-radius:50px; background-color:#78e08f; border-color:#78e08f;">DOWNLOAD RESUME</a>
+        </div>
+    </div>
+    <hr />
+
+    <h3 class="text-center my-4">EDUCATION</h3>
+
+    <div class="row mb-4">
+        <div class="col-md-10 mx-auto">
+            <div class="card shadow-sm">
+                <div class="row g-0">
+                    <div class="col-md-4 text-center p-4 align-self-center">
+                        <h6>JULY 2020 - MAY 2024</h6>
+                        <p class="fw-bold">B.Tech in Artificial Intelligence and Data Science</p>
+                        <p class="text-muted">Annamacharya Institute of Technology and Science<br />Rajampet, Andhra Pradesh</p>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body p-4">
+                            <p>Bachelor's Degree in ARTIFICIAL INTELLIGENCE AND DATA SCIENCE, where I gained hands-on knowledge about the latest technology like PYTHON, ASP.NET, SQL, etc.</p>
+                            <p class="card-text"><small class="text-muted">Final CGPA: 8.42 / 10</small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mb-4">
+        <div class="col-md-10 mx-auto">
+            <div class="card shadow-sm">
+                <div class="row g-0">
+                    <div class="col-md-4 text-center p-4 align-self-center">
+                        <h6>JULY 2018 - MAY 2020</h6>
+                        <p class="fw-bold">Junior College (Science)</p>
+                        <p class="text-muted">Narayana Junior College<br />Kadapa, Andhra Pradesh</p>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body p-4">
+                            <p>Completed First and Second Year of Junior College from the BIEAP board in the field of SCIENCE.</p>
+                            <p class="card-text"><small class="text-muted">Final CGPA: 8.90 / 10</small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mb-4">
+        <div class="col-md-10 mx-auto">
+            <div class="card shadow-sm">
+                <div class="row g-0">
+                    <div class="col-md-4 text-center p-4 align-self-center">
+                        <h6>JULY 2007 - MAY 2018</h6>
+                        <p class="fw-bold">Schooling</p>
+                        <p class="text-muted">Narayana School<br />Rajampet, Andhra Pradesh</p>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body p-4">
+                            <p>Completed My Schooling from Narayana School, from the SSC BOARD.</p>
+                            <p class="card-text"><small class="text-muted">Final CGPA: 9.5 / 10</small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr />
+
+    <div class="row mt-4">
+        <div class="col-lg-6 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-body">
+                    <h4 class="card-title text-center mb-4">Technical Skills</h4>
+                    <ul class="list-unstyled">
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>Python</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>ASP.NET with C#</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>HTML & CSS</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>Bootstrap</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>SQL</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-body">
+                    <h4 class="card-title text-center mb-4">Professional Skills</h4>
+                    <ul class="list-unstyled">
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>Problem Solving</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>Team Building</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>Good Analytical Abilities</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>Leadership Skills</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-2">
+        <div class="col-lg-6 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-body">
+                    <h4 class="card-title text-center mb-4">Languages</h4>
+                    <ul class="list-unstyled">
+                        <li class="mb-2"><i class="fas fa-language me-2"></i>English</li>
+                        <li class="mb-2"><i class="fas fa-language me-2"></i>Telugu</li>
+                        <li class="mb-2"><i class="fas fa-language me-2"></i>Hindi</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-body">
+                    <h4 class="card-title text-center mb-4">Interests & Hobbies</h4>
+                    <ul class="list-unstyled">
+                        @* <li class="mb-2"><i class="fas fa-laptop-code me-2"></i>Python Developer</li> *@
+                        @* <li class="mb-2"><i class="fas fa-globe me-2"></i>Web Development</li> *@
+                        @* <li class="mb-2"><i class="fas fa-cogs me-2"></i>.NET Developer</li> *@
+                        <li class="mb-2"><i class="fas fa-plane-departure me-2"></i>Traveling</li>
+                        <li class="mb-2"><i class="fas fa-search me-2"></i>Browse Internet</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
